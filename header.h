@@ -1,0 +1,3 @@
+
+int Encoding();
+int Decoding();
